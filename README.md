@@ -1,3 +1,3 @@
 # tribest-llc.com
 
-Company website for Tribest LLC. Published with GitHub Pages.
+Company website for TRIBEST LLC. Published with GitHub Pages.
