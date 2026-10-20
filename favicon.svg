@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56">
+  <style>
+    .r1 { stroke: #1a1a1a; }
+    .r2 { stroke: #0f766e; }
+    @media (prefers-color-scheme: dark) {
+      .r1 { stroke: #e8e8e8; }
+      .r2 { stroke: #5eead4; }
+    }
+  </style>
+  <g fill="none" stroke-width="6.5" stroke-linecap="round">
+    <circle class="r1" cx="20" cy="28" r="14"/>
+    <circle class="r2" cx="36" cy="28" r="14"/>
+  </g>
+</svg>
